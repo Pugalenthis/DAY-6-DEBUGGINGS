@@ -1,0 +1,90 @@
+1) <!-- <!DOCTYPE html>
+<html>
+<body>
+ <script>
+  alert( 'I"am"javacript');
+   </script>
+</body>
+</html> -->
+
+
+
+2)
+<!-- <!DOCTYPE html>
+<html>
+    <head>
+            <meta charset="UTF-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                    <title>Document</title>
+                                        </head>
+                                        <body>
+                                         <script src="script.js"></script>
+</body>
+</html>
+
+SCRIPT.JS
+
+alert("i am invoked") -->
+
+
+
+3)
+<!-- <!DOCTYPE html>
+<html>
+<body>
+ <script src="script.js"></script>
+ </body>
+ </html>
+alert('Hello') // this line is not having semicolon
+alert(`Wor
+ ld`)
+ alert(3 +
+ 1
+ + 2); // this is multiple line code and its working  -->
+ + <!-- 
+ + The above given html document have the script source file which runs the javacript so that it will alert in the window  -->
+
+
+4)
+<!DOCTYPE html>
+<html>
+<body>
+ <script src="script.js"></script>
+ </body>
+ </html>
+let admin=9, fname=10.5; 
+fname = "Guvi";
+lname = "geek"
+admin = fname+lname;
+alert( admin); // "Guvi geek"
+
+
+
+
+5)
+
+<!DOCTYPE html>
+<html>
+<body>
+ <script src="script.js"></script>
+ </body>
+ </html>
+let fname=10.5; 
+fname = "Guvi";
+lname = "geek"
+let full = fname+lname;
+alert( `hello ${full}` 
+
+
+6)
+<!DOCTYPE html>
+<html>
+<body>
+ <script src="script.js"></script>
+ </body>
+ </html>
+let a = +prompt("First number?");
+let b = +prompt("Second number?");
+alert(a + b);
+
